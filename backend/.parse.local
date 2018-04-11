@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "Kogershin": {
+      "applicationId": ""
+    },
+    "_default": {
+      "link": "Kogershin"
+    }
+  }
+}

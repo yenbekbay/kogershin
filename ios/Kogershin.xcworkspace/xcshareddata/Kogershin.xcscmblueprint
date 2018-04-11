@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D92908D2B9BDE67AF169D10043CCE7225770F4D3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D92908D2B9BDE67AF169D10043CCE7225770F4D3" : 0,
+    "7ABF0915BBEAFD5482B0F52436C44945AC745577" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4541CF14-5755-4F13-8DFC-E7ADC8DAD52C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D92908D2B9BDE67AF169D10043CCE7225770F4D3" : "kogershin-client\/",
+    "7ABF0915BBEAFD5482B0F52436C44945AC745577" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Kogershin",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Kogershin.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yenbekbay\/kogershin-client.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7ABF0915BBEAFD5482B0F52436C44945AC745577"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/yenbekbay\/kogershin-client.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D92908D2B9BDE67AF169D10043CCE7225770F4D3"
+    }
+  ]
+}

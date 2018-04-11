@@ -1,0 +1,83 @@
+PODS:
+  - Bolts/Tasks (1.2.2)
+  - ChameleonFramework (1.2.1):
+    - ChameleonFramework/Default (= 1.2.1)
+  - ChameleonFramework/Default (1.2.1)
+  - Crashlytics (3.3.1)
+  - CRGradientNavigationBar (0.3.2)
+  - CRToast (0.0.8)
+  - DBPrivacyHelper (0.6.3)
+  - DeviceUtil (1.2.0)
+  - DGActivityIndicatorView (1.0)
+  - DZNEmptyDataSet (1.7.1)
+  - Expecta (1.0.3)
+  - Fabric (1.5.1):
+    - Fabric/Base (= 1.5.1)
+  - Fabric/Base (1.5.1)
+  - GoogleMaps (1.10.3)
+  - LGFilterView (1.0.1)
+  - OCMock (3.1.5)
+  - OHHTTPStubs (4.2.0):
+    - OHHTTPStubs/Default (= 4.2.0)
+  - OHHTTPStubs/Core (4.2.0)
+  - OHHTTPStubs/Default (4.2.0):
+    - OHHTTPStubs/Core
+    - OHHTTPStubs/JSON
+    - OHHTTPStubs/NSURLSession
+    - OHHTTPStubs/OHPathHelpers
+  - OHHTTPStubs/JSON (4.2.0):
+    - OHHTTPStubs/Core
+  - OHHTTPStubs/NSURLSession (4.2.0):
+    - OHHTTPStubs/Core
+  - OHHTTPStubs/OHPathHelpers (4.2.0)
+  - OpenSans (1.0.3)
+  - Parse (1.8.5):
+    - Bolts/Tasks (>= 1.2.2)
+  - Reachability (3.2)
+  - Specta (1.0.3)
+  - SSSnackbar (0.1.1)
+
+DEPENDENCIES:
+  - ChameleonFramework
+  - Crashlytics
+  - CRGradientNavigationBar
+  - CRToast
+  - DBPrivacyHelper
+  - DeviceUtil
+  - DGActivityIndicatorView
+  - DZNEmptyDataSet
+  - Expecta
+  - Fabric
+  - GoogleMaps
+  - LGFilterView
+  - OCMock
+  - OHHTTPStubs
+  - OpenSans
+  - Parse
+  - Reachability
+  - Specta
+  - SSSnackbar
+
+SPEC CHECKSUMS:
+  Bolts: 20a2bd788273360cb1e31530dc19b8544eef2544
+  ChameleonFramework: 3476f813ac1615aef0a9a958f05520dfca47e09d
+  Crashlytics: 0e61bdda9def51f1e99720f804eebe94865442b2
+  CRGradientNavigationBar: ee6fa0398e3d64af32a792b63336e094bb55402e
+  CRToast: b087127369b4c603726ef6249d74d0d737629ab8
+  DBPrivacyHelper: c1e033776454dd3e16e8dcedf2e92d4d0a5e56df
+  DeviceUtil: 818812d4d2413e145a05d502cd1378e484d0c293
+  DGActivityIndicatorView: 980091f8d8cc647a1af7804660272e64aef9e516
+  DZNEmptyDataSet: 2a398066c2bf5848f7f693fb50954b5064debd12
+  Expecta: 9d1bff6c8b0eeee73a166a2ee898892478927a15
+  Fabric: 03c3b3fe77e11a2bc31421b989a9c7adaa4779a5
+  GoogleMaps: 945e4ac3b74bcca3ddada51df256eb7beddb474d
+  LGFilterView: 7b9bd143ab4617e7c41b7795d66e1e590ff37a37
+  OCMock: 4c2925291f80407c3738dd1db14d21d0cc278864
+  OHHTTPStubs: f639130b83fb5f4f022d38f841141b0a6fa77249
+  OpenSans: 33078846463eae780aa5f82986b51cce085f970d
+  Parse: 17ad8e0677ed682f7f00503860fcda0f4eb74168
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  Specta: cf3e4188cf35375c3ee2cd03f8db8f1f4ef98234
+  SSSnackbar: 4975ff1942a98ca920a52c22a90515d9dffa6eb4
+
+COCOAPODS: 0.38.2
